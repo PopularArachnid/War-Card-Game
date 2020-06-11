@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1HcdDIPy/lxxzcK4iHrzvBOqZIsDcplL+2luQhsQK2dC9nu9+MIkLI9zqahmnx+WqyyVd8ULe1SHohRhLNGvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samho\\source\\repos\\HovlandWarGame\\Cards\\Cards\\Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
